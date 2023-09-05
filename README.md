@@ -12,3 +12,5 @@ I really like **Chennai** because it has a mix of **old and new**. The city has 
 * Sambar Idli
 * Biryani
 * Kulfi
+
+[Know about me here!](https://github.com/SaiKrishnaKoduri/my2-koduri/blob/main/MyStats.md)
