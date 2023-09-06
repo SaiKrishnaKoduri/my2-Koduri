@@ -32,3 +32,22 @@ I really like **Chennai** because it has a mix of **old and new**. The city has 
 
 > **The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.**
 >> ***Stephen Hawking***
+ 
+ ---
+
+## Code Snippet
+
+> How do you strip the unit from any number in SASS?
+
+[Quck link to the question in Stack Overflow](https://stackoverflow.com/questions/12328259/how-do-you-strip-the-unit-from-any-number-in-sass)
+
+```
+@function strip-unit($number) {
+  @if type-of($number) == 'number' and not unitless($number) {
+    @return $number / ($number * 0 + 1);
+  }
+
+  @return $number;
+}
+```
+[Quick link to the Snippet source](https://css-tricks.com/snippets/sass/strip-unit-function/)
