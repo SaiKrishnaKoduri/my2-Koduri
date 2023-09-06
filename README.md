@@ -24,3 +24,11 @@ I really like **Chennai** because it has a mix of **old and new**. The city has 
 | Table Tennis | Quickpaced and enhances reflexes. | 3-5 hours |
 | Badminton | Fun and improves agility and stamina. | 4-6 hours |
 | Lawn Tennis | Enhances overall fitness and coordination. | 6-8 hours |
+
+---
+## My Favorite Quotes
+> **The important thing is not to stop questioning**.
+>> ***Albert Einstein***
+
+> **The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.**
+>> ***Stephen Hawking***
